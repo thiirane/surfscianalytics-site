@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkpage_render_service=globalThis.webpackChunkpage_render_service||[]).push([[3891],{3891:(e,n,r)=>{r.d(n,{A:()=>s});var a=r(7032);const s=()=>{if((0,a.A)("isScreenshot",!1))return!1;var e=(0,a.A)("settings.animation");return!(null==e||!e.enabled||null==e||!e.value)}}}]);
